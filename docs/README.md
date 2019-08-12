@@ -4,7 +4,7 @@ title: 金融前端组.
 description: 金融前端组隶属于金服事业部金融研发部，承接了金融业务的前端开发工作，主要赋能金融工具给其他事业部。
 actionText: 开始出发
 actionLink: /local/configurations/
-footer: Open Source on [GitHub](https://github.com/berlinen/interview-highlights), Made by [@Berlin](https://github.com/berlinen/)
+footer: Open Source on [GitHub](https://github.com/souche-finance-wireless/department-blog-simple-style), Made by [@Berlin](https://github.com/berlinen/)
 ---
 
 ## 文档工具基于Vuepress
