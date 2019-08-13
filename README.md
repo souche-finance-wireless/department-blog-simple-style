@@ -1,7 +1,7 @@
 # 团队介绍
 
 ## 主页
-[https://souche-finance-wireless.github.io/department-blog-simple-style/](https://souche-finance-wireless.github.io/department-blog-simple-style/)
+[https://department.netlify.com/](https://department.netlify.com/)
 
 <a name="uyfe3"></a>
 # [](https://souche.yuque.com/bggh1p/front-end/gopevv#article-title)金融前端组
