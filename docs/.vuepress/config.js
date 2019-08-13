@@ -1,7 +1,7 @@
 module.exports = {
   title: '金融前端组博客',
   description: 'theme config',
-  base: '/department-blog-simple-style/',
+  // base: '/department-blog-simple-style/',
   dest: 'dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
