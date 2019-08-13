@@ -5,7 +5,7 @@ npm run docs:build
 
 cd dist
 
-git config --global user.name "berlinen"
+git config --global user.name "berlin"
 git config --global user.email 1292393108@qq.com
 git init
 git add -A
